@@ -1,9 +1,9 @@
 import React from 'react';
 
-const Summary: React.FC = () => {
+const Overview: React.FC = () => {
   return (
     <div style={{ paddingLeft: "20px", width: "100%" }}>
-      <h3>Summary</h3>
+      <h2>Overview</h2>
       <p>
         The techradar is a list of technologies, complemented by an assessment result, called <em>ring assignment</em>. In this example the following rings are used:
         <ul>
@@ -38,4 +38,4 @@ const Summary: React.FC = () => {
   );
 };
 
-export default Summary;
+export default Overview;

@@ -11,8 +11,8 @@ const data: TechradarData = {
     {
       name: "Frameworks & Ecosystems",
       blipsByRing: {
-        adopt: [{ name: "React" }],
-        assess: [{ name: "Vue" }, { name: "Angular (2+)" }],
+        adopt: [{ name: "React" }, { name: "Vue" }],
+        assess: [ { name: "Angular (2+)" }],
         hold: [{ name: "AngularJS (1)" }, { name: "jQuery" }],
       },
     },
