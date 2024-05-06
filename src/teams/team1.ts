@@ -34,7 +34,7 @@ const data: TechradarData = {
     {
       name: "Infrastucture",
       blipsByRing: {
-        adopt: [{ name: "AWS CodePipeline" }],
+        adopt: [],
         trial: [{ name: "Jenkins" }],
         hold: [{ name: "Bamboo", state: 'down' }, { name: "TeamCity" }],
       },
